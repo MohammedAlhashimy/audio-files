@@ -1,0 +1,26 @@
+{
+  "source": "Atefeh.HTML",
+  "cards": 337,
+  "questions": 424,
+  "transcripts": 337,
+  "sections": {
+    "teil-1": {
+      "cards": 145,
+      "questions": 145
+    },
+    "teil-2": {
+      "cards": 135,
+      "questions": 135
+    },
+    "teil-3": {
+      "cards": 27,
+      "questions": 54
+    },
+    "teil-4": {
+      "cards": 30,
+      "questions": 90
+    }
+  },
+  "convertedAudio": "AudioVier/18.mp4 -> AudioVier/18.mp3",
+  "errors": []
+}
